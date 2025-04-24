@@ -33,6 +33,9 @@ Para startar o projeto você pode digitar o comando `npm run start` no diretóri
 Após isso ele irá inciar na porta `3000` no seu localhost, ou seja, basta apenas entrar em `http://localhost:3000/palavras`.
 
 
+## 🌐 Online Access
+Você tambem pode acessar a API na Web, ela está deployada no seguinte link `https://random-word-api-togh.onrender.com/palavras`, para realizar este deploy foi utilizada a ferramenta [Render](https://render.com).
+
 ## 📜 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/RayanneAndrade/random-word-api/blob/main/LICENSE) para mais detalhes.
 
